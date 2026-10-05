@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>{{ t('insights_title') }}</h3>
+
+<div class="row text-center g-3 mb-4">
+  <div class="col-md-4">
+    <div class="card shadow-sm"><div class="card-body">
+      <div class="text-muted small">{{ t('largest_district') }}</div>
+      <h4>{{ field(largest, 'name') }}</h4>
+      <p class="mb-0">{{ largest.area_sqkm }} {{ t('sqkm') }}</p>
+    </div></div>
+  </div>
+  <div class="col-md-4">
+    <div class="card shadow-sm"><div class="card-body">
+      <div class="text-muted small">{{ t('smallest_district') }}</div>
+      <h4>{{ field(smallest, 'name') }}</h4>
+      <p class="mb-0">{{ smallest.area_sqkm }} {{ t('sqkm') }}</p>
+    </div></div>
+  </div>
+  <div class="col-md-4">
+    <div class="card shadow-sm"><div class="card-body">
+      <div class="text-muted small">{{ t('most_populous') }}</div>
+      <h4>{{ field(most_populous, 'name') }}</h4>
+      <p class="mb-0">{{ "{:,}".format(most_populous.population) }}</p>
+    </div></div>
+  </div>
+</div>
+
+<div class="row g-4">
+  <div class="col-md-6">
+    <div class="card shadow-sm"><div class="card-body">
+      <h5>{{ t('insights_by_division') }}</h5>
+      <canvas id="popChart" height="220"></canvas>
+    </div></div>
+  </div>
+  <div class="col-md-6">
+    <div class="card shadow-sm"><div class="card-body">
+      <h5>{{ t('insights_area_by_division') }}</h5>
+      <canvas id="areaChart" height="220"></canvas>
+    </div></div>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script>
+const labels = {{ division_labels|tojson }};
+new Chart(document.getElementById('popChart'), {
+  type: 'bar',
+  data: { labels: labels, datasets: [{ label: 'Population', data: {{ population_values|tojson }}, backgroundColor: '#065f46' }] },
+  options: { plugins: { legend: { display: false } } }
+});
+new Chart(document.getElementById('areaChart'), {
+  type: 'bar',
+  data: { labels: labels, datasets: [{ label: 'Area (sq km)', data: {{ area_values|tojson }}, backgroundColor: '#059669' }] },
+  options: { plugins: { legend: { display: false } } }
+});
+</script>
+{% endblock %}

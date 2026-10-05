@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>{{ t('quiz_title') }}</h3>
+
+<div class="card card-body shadow-sm">
+  <div class="d-flex justify-content-between mb-3">
+    <span>{{ t('quiz_score') }}: <strong id="score">0</strong> / <span id="total">0</span></span>
+  </div>
+  <h5 id="question-text">...</h5>
+  <div id="options" class="d-grid gap-2 mt-3"></div>
+  <div id="feedback" class="mt-3"></div>
+  <button id="next-btn" class="btn btn-success mt-3" style="display:none;">{{ t('quiz_next') }}</button>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+const T = {
+  correct: {{ t('quiz_correct')|tojson }},
+  wrong: {{ t('quiz_wrong')|tojson }},
+};
+let score = 0, total = 0, currentAnswer = -1;
+
+async function loadQuestion() {
+  document.getElementById('feedback').innerHTML = '';
+  document.getElementById('next-btn').style.display = 'none';
+  const res = await fetch('/api/quiz/question');
+  const q = await res.json();
+  currentAnswer = q.answer_index;
+  document.getElementById('question-text').textContent = q.question;
+  const optionsDiv = document.getElementById('options');
+  optionsDiv.innerHTML = '';
+  q.options.forEach((opt, idx) => {
+    const btn = document.createElement('button');
+    btn.className = 'btn btn-outline-success text-start';
+    btn.textContent = opt;
+    btn.onclick = () => checkAnswer(idx, opt, q.options);
+    optionsDiv.appendChild(btn);
+  });
+}
+
+function checkAnswer(idx, opt, options) {
+  total++;
+  document.getElementById('total').textContent = total;
+  const buttons = document.querySelectorAll('#options button');
+  buttons.forEach((b, i) => {
+    b.disabled = true;
+    if (i === currentAnswer) b.classList.replace('btn-outline-success', 'btn-success');
+  });
+  if (idx === currentAnswer) {
+    score++;
+    document.getElementById('feedback').innerHTML = `<div class="alert alert-success">${T.correct}</div>`;
+  } else {
+    buttons[idx].classList.replace('btn-outline-success', 'btn-danger');
+    document.getElementById('feedback').innerHTML = `<div class="alert alert-danger">${T.wrong}: ${options[currentAnswer]}</div>`;
+  }
+  document.getElementById('score').textContent = score;
+  document.getElementById('next-btn').style.display = 'inline-block';
+}
+
+document.getElementById('next-btn').addEventListener('click', loadQuestion);
+loadQuestion();
+</script>
+{% endblock %}

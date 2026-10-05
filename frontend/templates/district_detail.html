@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block title %}{{ field(d, 'name') }} - {{ t('site_name') }}{% endblock %}
+{% block content %}
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ url_for('home') }}">{{ t('nav_home') }}</a></li>
+    <li class="breadcrumb-item active">{{ field(d, 'name') }}</li>
+  </ol>
+</nav>
+
+<div class="card shadow-sm mb-4">
+  <div class="card-body">
+    <div class="d-flex justify-content-between align-items-start flex-wrap">
+      <div>
+        <h2>{{ field(d, 'name') }}</h2>
+        <p class="text-muted">{{ t('division') }}: {{ field(d, 'division') }}</p>
+      </div>
+      <div class="d-flex gap-2">
+        <form method="POST" action="{{ url_for('toggle_favorite', district_id=d.id) }}">
+          <button class="btn btn-outline-warning btn-sm">
+            {% if d.id in favorites %}★ {{ t('remove_favorite') }}{% else %}☆ {{ t('add_favorite') }}{% endif %}
+          </button>
+        </form>
+        <a href="{{ url_for('district_print', district_id=d.id) }}" target="_blank" class="btn btn-outline-secondary btn-sm">
+          🖨️ {{ t('download_pdf') }}
+        </a>
+      </div>
+    </div>
+
+    <p class="lead mt-3">{{ field(d, 'description') }}</p>
+
+    <div class="row g-3 mt-2">
+      <div class="col-md-4">
+        <div class="p-3 bg-light rounded-3 text-center">
+          <div class="text-muted small">{{ t('area') }}</div>
+          <div class="fs-4 fw-bold">{{ d.area_sqkm }} {{ t('sqkm') }}</div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="p-3 bg-light rounded-3 text-center">
+          <div class="text-muted small">{{ t('population') }}</div>
+          <div class="fs-4 fw-bold">{{ "{:,}".format(d.population) }}</div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="p-3 bg-light rounded-3 text-center">
+          <div class="text-muted small">{{ t('rivers') }}</div>
+          <div class="fs-6 fw-bold">{{ field(d, 'rivers')|join(', ') }}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row mt-4">
+      <div class="col-md-6">
+        <h5>🏛️ {{ t('famous_for') }}</h5>
+        <ul>
+          {% for item in field(d, 'famous_for') %}<li>{{ item }}</li>{% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <h5>🍽️ {{ t('local_food') }}</h5>
+        <ul>
+          {% for item in field(d, 'food') %}<li>{{ item }}</li>{% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a href="{{ url_for('compare', d1=d.id) }}" class="btn btn-outline-success">
+  ⇄ {{ t('compare_with') }}
+</a>
+
+{% endblock %}

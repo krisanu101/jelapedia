@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ t('site_name') }}{% endblock %}</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗺️</text></svg>">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#065f46;">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="{{ url_for('home') }}">🗺️ {{ t('site_name') }}</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="nav">
+      <ul class="navbar-nav me-auto">
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('home') }}">{{ t('nav_home') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('search_page') }}">{{ t('nav_search') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('compare') }}">{{ t('nav_compare') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('trip_planner_page') }}">{{ t('nav_trip') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('quiz_page') }}">{{ t('nav_quiz') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('insights') }}">{{ t('nav_insights') }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ url_for('favorites_page') }}">
+          {{ t('nav_favorites') }} {% if favorites %}<span class="badge bg-warning text-dark">{{ favorites|length }}</span>{% endif %}
+        </a></li>
+      </ul>
+      <div class="btn-group" role="group">
+        <a href="{{ url_for('set_language', lang_code='bn') }}"
+           class="btn btn-sm {{ 'btn-light' if lang=='bn' else 'btn-outline-light' }}">বাংলা</a>
+        <a href="{{ url_for('set_language', lang_code='en') }}"
+           class="btn btn-sm {{ 'btn-light' if lang=='en' else 'btn-outline-light' }}">English</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="container mt-4">
+  {% block content %}{% endblock %}
+</div>
+
+<footer class="text-center text-muted py-4 mt-5">
+  <small>{{ t('footer_note') }}</small>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

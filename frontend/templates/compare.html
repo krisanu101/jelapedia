@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>{{ t('compare_title') }}</h3>
+
+<form method="GET" class="row g-3 mb-4">
+  <div class="col-md-5">
+    <select name="d1" class="form-select" required>
+      <option value="">{{ t('select_district') }}</option>
+      {% for dist in districts %}
+      <option value="{{ dist.id }}" {% if d1 and d1.id == dist.id %}selected{% endif %}>{{ field(dist, 'name') }}</option>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="col-md-5">
+    <select name="d2" class="form-select" required>
+      <option value="">{{ t('select_district') }}</option>
+      {% for dist in districts %}
+      <option value="{{ dist.id }}" {% if d2 and d2.id == dist.id %}selected{% endif %}>{{ field(dist, 'name') }}</option>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="col-md-2">
+    <button type="submit" class="btn btn-success w-100">{{ t('compare_btn') }}</button>
+  </div>
+</form>
+
+{% if d1 and d2 %}
+<div class="table-responsive">
+  <table class="table table-bordered align-middle">
+    <thead class="table-success">
+      <tr><th></th><th>{{ field(d1, 'name') }}</th><th>{{ field(d2, 'name') }}</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>{{ t('division') }}</td><td>{{ field(d1, 'division') }}</td><td>{{ field(d2, 'division') }}</td></tr>
+      <tr><td>{{ t('area') }}</td><td>{{ d1.area_sqkm }} {{ t('sqkm') }}</td><td>{{ d2.area_sqkm }} {{ t('sqkm') }}</td></tr>
+      <tr><td>{{ t('population') }}</td><td>{{ "{:,}".format(d1.population) }}</td><td>{{ "{:,}".format(d2.population) }}</td></tr>
+      <tr><td>{{ t('rivers') }}</td><td>{{ field(d1, 'rivers')|join(', ') }}</td><td>{{ field(d2, 'rivers')|join(', ') }}</td></tr>
+      <tr><td>{{ t('famous_for') }}</td>
+          <td><ul class="mb-0">{% for f in field(d1, 'famous_for') %}<li>{{ f }}</li>{% endfor %}</ul></td>
+          <td><ul class="mb-0">{% for f in field(d2, 'famous_for') %}<li>{{ f }}</li>{% endfor %}</ul></td></tr>
+      <tr><td>{{ t('local_food') }}</td>
+          <td><ul class="mb-0">{% for f in field(d1, 'food') %}<li>{{ f }}</li>{% endfor %}</ul></td>
+          <td><ul class="mb-0">{% for f in field(d2, 'food') %}<li>{{ f }}</li>{% endfor %}</ul></td></tr>
+    </tbody>
+  </table>
+</div>
+{% endif %}
+
+{% endblock %}

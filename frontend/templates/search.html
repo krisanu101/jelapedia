@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h3>{{ t('ai_search_title') }}</h3>
+<p class="text-muted">{{ t('ai_search_subtitle') }}</p>
+
+<div class="card card-body shadow-sm mb-4">
+  <div class="input-group">
+    <input type="text" id="ask-input" class="form-control" placeholder="{{ t('search_placeholder') }}">
+    <button class="btn btn-outline-secondary" id="mic-btn" title="{{ t('ai_mic_hint') }}">🎤</button>
+    <button class="btn btn-success" id="ask-btn">{{ t('ai_ask_btn') }}</button>
+  </div>
+  <small class="text-muted mt-1">{{ t('ai_mic_hint') }}</small>
+</div>
+
+<div id="result-area"></div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+const lang = "{{ lang }}";
+const askInput = document.getElementById('ask-input');
+const askBtn = document.getElementById('ask-btn');
+const micBtn = document.getElementById('mic-btn');
+const resultArea = document.getElementById('result-area');
+
+const T = {
+  no_match: {{ t('ai_no_match')|tojson }},
+  confidence: {{ t('confidence')|tojson }},
+  famous_for: {{ t('famous_for')|tojson }},
+  view_details: {{ t('view_details')|tojson }}
+};
+
+async function ask() {
+  const q = askInput.value.trim();
+  if (!q) return;
+  resultArea.innerHTML = '<p class="text-muted">...</p>';
+  try {
+    const res = await fetch('/api/ask?q=' + encodeURIComponent(q));
+    const data = await res.json();
+    if (!data.found) {
+      resultArea.innerHTML = `<div class="alert alert-warning">${T.no_match}</div>`;
+      return;
+    }
+    const d = data.district;
+    const confPct = Math.round(data.confidence * 100);
+    resultArea.innerHTML = `
+      <div class="card shadow-sm">
+        <div class="card-body">
+          <div class="d-flex justify-content-between">
+            <h4>${d.name}</h4>
+            <span class="badge bg-success align-self-start">${T.confidence}: ${confPct}%</span>
+          </div>
+          <p class="text-muted">${d.division}</p>
+          <p>${d.description}</p>
+          <p><strong>${T.famous_for}:</strong> ${d.famous_for.join(', ')}</p>
+          <a href="${d.url}" class="btn btn-sm btn-outline-success">${T.view_details}</a>
+        </div>
+      </div>`;
+  } catch (e) {
+    resultArea.innerHTML = '<div class="alert alert-danger">Error contacting server.</div>';
+  }
+}
+
+askBtn.addEventListener('click', ask);
+askInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') ask(); });
+
+// Voice input via the browser's own Web Speech API — no API key needed.
+if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  const recognition = new SpeechRecognition();
+  recognition.lang = lang === 'bn' ? 'bn-BD' : 'en-US';
+  recognition.onresult = (event) => {
+    askInput.value = event.results[0][0].transcript;
+    ask();
+  };
+  micBtn.addEventListener('click', () => recognition.start());
+} else {
+  micBtn.disabled = true;
+  micBtn.title = 'Voice input not supported in this browser';
+}
+</script>
+{% endblock %}
