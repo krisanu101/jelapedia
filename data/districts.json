@@ -1,0 +1,2383 @@
+[
+ {
+  "id": "dhaka",
+  "name_en": "Dhaka",
+  "name_bn": "ঢাকা",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1463,
+  "population": 12517361,
+  "tags": [
+   "historical",
+   "religious",
+   "industrial"
+  ],
+  "famous_for_en": [
+   "Lalbagh Fort",
+   "Ahsan Manzil",
+   "National Parliament House",
+   "Old Dhaka"
+  ],
+  "famous_for_bn": [
+   "লালবাগ কেল্লা",
+   "আহসান মঞ্জিল",
+   "জাতীয় সংসদ ভবন",
+   "পুরান ঢাকা"
+  ],
+  "food_en": [
+   "Biryani",
+   "Bakarkhani",
+   "Puran Dhaka street food"
+  ],
+  "food_bn": [
+   "বিরিয়ানি",
+   "বাকরখানি",
+   "পুরান ঢাকার স্ট্রিট ফুড"
+  ],
+  "rivers_en": [
+   "Buriganga",
+   "Turag"
+  ],
+  "rivers_bn": [
+   "বুড়িগঙ্গা",
+   "তুরাগ"
+  ],
+  "description_en": "Capital of Bangladesh and one of the most densely populated cities in the world, known as the 'City of Mosques' with a 400-year Mughal history.",
+  "description_bn": "বাংলাদেশের রাজধানী ও বিশ্বের সবচেয়ে ঘনবসতিপূর্ণ শহরগুলোর একটি, ৪০০ বছরের মুঘল ইতিহাসের সাক্ষী, 'মসজিদের শহর' নামে পরিচিত।"
+ },
+ {
+  "id": "gazipur",
+  "name_en": "Gazipur",
+  "name_bn": "গাজীপুর",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1741,
+  "population": 3403912,
+  "tags": [
+   "forest",
+   "industrial"
+  ],
+  "famous_for_en": [
+   "Bhawal National Park",
+   "Sal forest",
+   "garments industry hub"
+  ],
+  "famous_for_bn": [
+   "ভাওয়াল জাতীয় উদ্যান",
+   "শালবন",
+   "গার্মেন্টস শিল্প কেন্দ্র"
+  ],
+  "food_en": [
+   "Kanthal (jackfruit)"
+  ],
+  "food_bn": [
+   "কাঁঠাল"
+  ],
+  "rivers_en": [
+   "Turag",
+   "Shitalakshya"
+  ],
+  "rivers_bn": [
+   "তুরাগ",
+   "শীতলক্ষ্যা"
+  ],
+  "description_en": "A major industrial district next to Dhaka, home to Bhawal National Park's sal forests and one of the largest concentrations of garment factories in the country.",
+  "description_bn": "ঢাকার পাশে একটি বড় শিল্প জেলা, ভাওয়াল জাতীয় উদ্যানের শালবনের জন্য বিখ্যাত এবং দেশের অন্যতম বৃহৎ গার্মেন্টস শিল্প কেন্দ্র।"
+ },
+ {
+  "id": "narayanganj",
+  "name_en": "Narayanganj",
+  "name_bn": "নারায়ণগঞ্জ",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 759,
+  "population": 3831069,
+  "tags": [
+   "historical",
+   "industrial",
+   "river"
+  ],
+  "famous_for_en": [
+   "Sonargaon (old capital)",
+   "Panam City",
+   "textile trade hub"
+  ],
+  "famous_for_bn": [
+   "সোনারগাঁও",
+   "পানাম নগর",
+   "বস্ত্র ব্যবসার কেন্দ্র"
+  ],
+  "food_en": [
+   "Local sweets",
+   "river-side street food"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি",
+   "নদীতীরের খাবার"
+  ],
+  "rivers_en": [
+   "Shitalakshya",
+   "Buriganga"
+  ],
+  "rivers_bn": [
+   "শীতলক্ষ্যা",
+   "বুড়িগঙ্গা"
+  ],
+  "description_en": "Known as the 'Dundee of the East' for its jute trade history; home to Sonargaon, once the medieval capital of Bengal, and the beautifully preserved Panam City.",
+  "description_bn": "পাটের ব্যবসার ইতিহাসের জন্য 'প্রাচ্যের ডান্ডি' নামে পরিচিত; মধ্যযুগীয় বাংলার রাজধানী সোনারগাঁও ও সংরক্ষিত পানাম নগরীর জন্য বিখ্যাত।"
+ },
+ {
+  "id": "tangail",
+  "name_en": "Tangail",
+  "name_bn": "টাঙ্গাইল",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 3414,
+  "population": 4240440,
+  "tags": [
+   "historical",
+   "river"
+  ],
+  "famous_for_en": [
+   "Tangail saree",
+   "Madhupur forest",
+   "Atia Mosque"
+  ],
+  "famous_for_bn": [
+   "টাঙ্গাইল শাড়ি",
+   "মধুপুর বনাঞ্চল",
+   "আতিয়া মসজিদ"
+  ],
+  "food_en": [
+   "Tangail's Cheez (Porabari)"
+  ],
+  "food_bn": [
+   "পোড়াবাড়ির চমচম"
+  ],
+  "rivers_en": [
+   "Jamuna",
+   "Dhaleshwari"
+  ],
+  "rivers_bn": [
+   "যমুনা",
+   "ধলেশ্বরী"
+  ],
+  "description_en": "Famous nationwide for the handwoven Tangail saree and Porabari's chomchom sweets, with the Madhupur sal forest in its north.",
+  "description_bn": "হস্তচালিত টাঙ্গাইল শাড়ি ও পোড়াবাড়ির চমচমের জন্য সারা দেশে বিখ্যাত, উত্তরে রয়েছে মধুপুরের শালবন।"
+ },
+ {
+  "id": "kishoreganj",
+  "name_en": "Kishoreganj",
+  "name_bn": "কিশোরগঞ্জ",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 2688,
+  "population": 3391126,
+  "tags": [
+   "haor",
+   "religious"
+  ],
+  "famous_for_en": [
+   "Nikli Haor",
+   "Sholakia Eidgah (largest Eid congregation)"
+  ],
+  "famous_for_bn": [
+   "নিকলী হাওর",
+   "শোলাকিয়া ঈদগাহ"
+  ],
+  "food_en": [
+   "Balishira sweets"
+  ],
+  "food_bn": [
+   "বালিশিরা মিষ্টি"
+  ],
+  "rivers_en": [
+   "Meghna",
+   "Old Brahmaputra"
+  ],
+  "rivers_bn": [
+   "মেঘনা",
+   "পুরাতন ব্রহ্মপুত্র"
+  ],
+  "description_en": "Home to vast haor (wetland) areas that turn into inland seas in monsoon, and Sholakia Eidgah — one of the largest Eid prayer congregations in the world.",
+  "description_bn": "বর্ষায় সমুদ্রের মতো রূপ নেওয়া বিশাল হাওর অঞ্চলের জন্য বিখ্যাত; শোলাকিয়া ঈদগাহে বিশ্বের অন্যতম বৃহৎ ঈদের জামাত অনুষ্ঠিত হয়।"
+ },
+ {
+  "id": "munshiganj",
+  "name_en": "Munshiganj",
+  "name_bn": "মুন্সীগঞ্জ",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 954,
+  "population": 1567844,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Idrakpur Fort",
+   "Bikrampur (ancient region)"
+  ],
+  "famous_for_bn": [
+   "ইদ্রাকপুর কেল্লা",
+   "বিক্রমপুর"
+  ],
+  "food_en": [
+   "Potatoes",
+   "local fish dishes"
+  ],
+  "food_bn": [
+   "আলু",
+   "নদীর মাছ"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Meghna",
+   "Dhaleshwari"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "মেঘনা",
+   "ধলেশ্বরী"
+  ],
+  "description_en": "Part of the historic Bikrampur region, birthplace of several notable Bengali scholars, and a leading potato-growing district.",
+  "description_bn": "ঐতিহাসিক বিক্রমপুর অঞ্চলের অংশ, বহু বিখ্যাত বাঙালি পণ্ডিতের জন্মস্থান, এবং আলু উৎপাদনে শীর্ষস্থানীয় জেলা।"
+ },
+ {
+  "id": "narsingdi",
+  "name_en": "Narsingdi",
+  "name_bn": "নরসিংদী",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1150,
+  "population": 3311888,
+  "tags": [
+   "industrial",
+   "river"
+  ],
+  "famous_for_en": [
+   "Wari-Bateshwar archaeological site",
+   "textile industry"
+  ],
+  "famous_for_bn": [
+   "ওয়ারী-বটেশ্বর প্রত্নস্থান",
+   "বস্ত্র শিল্প"
+  ],
+  "food_en": [
+   "Local jackfruit"
+  ],
+  "food_bn": [
+   "কাঁঠাল"
+  ],
+  "rivers_en": [
+   "Meghna",
+   "Shitalakshya"
+  ],
+  "rivers_bn": [
+   "মেঘনা",
+   "শীতলক্ষ্যা"
+  ],
+  "description_en": "Home to the Wari-Bateshwar archaeological site, believed to be a 2,500-year-old trading hub, and a major textile-weaving district today.",
+  "description_bn": "ওয়ারী-বটেশ্বর প্রত্নস্থানের জন্য বিখ্যাত, যা প্রায় ২৫০০ বছরের পুরনো একটি বাণিজ্যকেন্দ্র বলে মনে করা হয়; বর্তমানে বস্ত্র বয়ন শিল্পের কেন্দ্র।"
+ },
+ {
+  "id": "manikganj",
+  "name_en": "Manikganj",
+  "name_bn": "মানিকগঞ্জ",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 964,
+  "population": 1493195,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Baliati Palace",
+   "Teota Zamindar Bari"
+  ],
+  "famous_for_bn": [
+   "বালিয়াটি জমিদারবাড়ি",
+   "তেওতা জমিদারবাড়ি"
+  ],
+  "food_en": [
+   "Rasogolla"
+  ],
+  "food_bn": [
+   "রসগোল্লা"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Kaliganga"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "কালীগঙ্গা"
+  ],
+  "description_en": "Known for the grand Baliati Palace, one of the largest zamindar houses in Bangladesh, reflecting 19th-century aristocratic architecture.",
+  "description_bn": "বাংলাদেশের অন্যতম বৃহৎ জমিদারবাড়ি বালিয়াটি প্রাসাদের জন্য বিখ্যাত, যা ঊনবিংশ শতাব্দীর স্থাপত্যশৈলীর নিদর্শন।"
+ },
+ {
+  "id": "gopalganj",
+  "name_en": "Gopalganj",
+  "name_bn": "গোপালগঞ্জ",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1490,
+  "population": 1172415,
+  "tags": [
+   "historical",
+   "river"
+  ],
+  "famous_for_en": [
+   "Tungipara (Bangabandhu's mausoleum)"
+  ],
+  "famous_for_bn": [
+   "টুঙ্গিপাড়া (বঙ্গবন্ধুর সমাধি)"
+  ],
+  "food_en": [
+   "Nolen gurer sandesh"
+  ],
+  "food_bn": [
+   "নলেন গুড়ের সন্দেশ"
+  ],
+  "rivers_en": [
+   "Madhumati"
+  ],
+  "rivers_bn": [
+   "মধুমতী"
+  ],
+  "description_en": "Home to Tungipara, the birthplace and mausoleum of Bangabandhu Sheikh Mujibur Rahman, the Father of the Nation.",
+  "description_bn": "জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের জন্মস্থান ও সমাধিস্থল টুঙ্গিপাড়ার জন্য বিখ্যাত।"
+ },
+ {
+  "id": "faridpur",
+  "name_en": "Faridpur",
+  "name_bn": "ফরিদপুর",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 2073,
+  "population": 1912969,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Pran Ballav Das Homeopathy College",
+   "riverside heritage"
+  ],
+  "famous_for_bn": [
+   "প্রাণ বল্লভ দাস কলেজ",
+   "নদীতীরের ঐতিহ্য"
+  ],
+  "food_en": [
+   "Khejur gur (date palm jaggery)"
+  ],
+  "food_bn": [
+   "খেজুর গুড়"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Arial Khan"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "আড়িয়াল খাঁ"
+  ],
+  "description_en": "A riverside district on the Padma, historically an important trade and cultural centre of southwestern Bengal.",
+  "description_bn": "পদ্মা নদীর তীরে অবস্থিত একটি জেলা, ঐতিহাসিকভাবে দক্ষিণ-পশ্চিম বাংলার গুরুত্বপূর্ণ বাণিজ্য ও সাংস্কৃতিক কেন্দ্র।"
+ },
+ {
+  "id": "madaripur",
+  "name_en": "Madaripur",
+  "name_bn": "মাদারীপুর",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1144,
+  "population": 1385756,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Shakuni Lake",
+   "Aai Bazar"
+  ],
+  "famous_for_bn": [
+   "শকুনি হ্রদ",
+   "আইজ বাজার"
+  ],
+  "food_en": [
+   "Khejur gur"
+  ],
+  "food_bn": [
+   "খেজুর গুড়"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Arial Khan"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "আড়িয়াল খাঁ"
+  ],
+  "description_en": "A quiet riverside district in central Bangladesh known for Shakuni Lake and its rural, agrarian landscape.",
+  "description_bn": "শকুনি হ্রদ ও গ্রামীণ কৃষিনির্ভর প্রকৃতির জন্য পরিচিত মধ্য বাংলাদেশের একটি নদীতীরবর্তী জেলা।"
+ },
+ {
+  "id": "shariatpur",
+  "name_en": "Shariatpur",
+  "name_bn": "শরীয়তপুর",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 750,
+  "population": 1200065,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Sureshwar Darbar Sharif"
+  ],
+  "famous_for_bn": [
+   "সুরেশ্বর দরবার শরীফ"
+  ],
+  "food_en": [
+   "Ilish (hilsa) dishes"
+  ],
+  "food_bn": [
+   "ইলিশ মাছের পদ"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Meghna"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "মেঘনা"
+  ],
+  "description_en": "A small Padma-side district known for the Sureshwar Darbar Sharif shrine and abundant hilsa fishing.",
+  "description_bn": "সুরেশ্বর দরবার শরীফ ও প্রচুর ইলিশ মাছের জন্য পরিচিত পদ্মা নদীর তীরের একটি ছোট জেলা।"
+ },
+ {
+  "id": "rajbari",
+  "name_en": "Rajbari",
+  "name_bn": "রাজবাড়ী",
+  "division_en": "Dhaka",
+  "division_bn": "ঢাকা",
+  "area_sqkm": 1118,
+  "population": 1198857,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Baliakandi Zamindar Bari",
+   "Padma riverside"
+  ],
+  "famous_for_bn": [
+   "বলিয়াকান্দি জমিদারবাড়ি",
+   "পদ্মা নদীর তীর"
+  ],
+  "food_en": [
+   "Chomchom"
+  ],
+  "food_bn": [
+   "চমচম"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Garai"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "গড়াই"
+  ],
+  "description_en": "A small Padma-riverside district whose name literally means 'royal house', reflecting its zamindar-era heritage.",
+  "description_bn": "'রাজার বাড়ি' নামের অর্থ বহনকারী এই জেলা পদ্মা নদীর তীরে অবস্থিত ও জমিদার আমলের ঐতিহ্যবাহী।"
+ },
+ {
+  "id": "chattogram",
+  "name_en": "Chattogram",
+  "name_bn": "চট্টগ্রাম",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 5283,
+  "population": 7616352,
+  "tags": [
+   "hill",
+   "industrial",
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Chattogram Port",
+   "Patenga Beach",
+   "Foy's Lake",
+   "hill tracts"
+  ],
+  "famous_for_bn": [
+   "চট্টগ্রাম বন্দর",
+   "পতেঙ্গা সৈকত",
+   "ফয়েস লেক",
+   "পাহাড়ি এলাকা"
+  ],
+  "food_en": [
+   "Mezban beef",
+   "Kala bhuna"
+  ],
+  "food_bn": [
+   "মেজবানি গোশত",
+   "কালা ভুনা"
+  ],
+  "rivers_en": [
+   "Karnaphuli"
+  ],
+  "rivers_bn": [
+   "কর্ণফুলী"
+  ],
+  "description_en": "Bangladesh's main port city and commercial hub, set between hills and the Bay of Bengal, famous for Mezbani cuisine and the Karnaphuli river.",
+  "description_bn": "বাংলাদেশের প্রধান বন্দর নগরী ও বাণিজ্যিক কেন্দ্র, পাহাড় ও বঙ্গোপসাগরের মাঝে অবস্থিত, মেজবানি খাবার ও কর্ণফুলী নদীর জন্য বিখ্যাত।"
+ },
+ {
+  "id": "coxsbazar",
+  "name_en": "Cox's Bazar",
+  "name_bn": "কক্সবাজার",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 2491,
+  "population": 2340479,
+  "tags": [
+   "beach",
+   "hill"
+  ],
+  "famous_for_en": [
+   "World's longest natural sea beach",
+   "Himchari",
+   "Saint Martin's Island",
+   "Inani Beach"
+  ],
+  "famous_for_bn": [
+   "বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্রসৈকত",
+   "হিমছড়ি",
+   "সেন্টমার্টিন দ্বীপ",
+   "ইনানী সৈকত"
+  ],
+  "food_en": [
+   "Fresh seafood",
+   "dried fish (shutki)"
+  ],
+  "food_bn": [
+   "তাজা সামুদ্রিক মাছ",
+   "শুঁটকি"
+  ],
+  "rivers_en": [
+   "Bakkhali"
+  ],
+  "rivers_bn": [
+   "বাঁকখালী"
+  ],
+  "description_en": "Bangladesh's top tourist destination, home to the world's longest unbroken natural sea beach (120 km) and Saint Martin's, the country's only coral island.",
+  "description_bn": "বাংলাদেশের শীর্ষ পর্যটন কেন্দ্র, বিশ্বের দীর্ঘতম অবিচ্ছিন্ন প্রাকৃতিক সমুদ্রসৈকতের (১২০ কিমি) জন্য বিখ্যাত, দেশের একমাত্র প্রবাল দ্বীপ সেন্টমার্টিনও এখানে অবস্থিত।"
+ },
+ {
+  "id": "cumilla",
+  "name_en": "Cumilla",
+  "name_bn": "কুমিল্লা",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 3085,
+  "population": 6068107,
+  "tags": [
+   "historical",
+   "archaeological"
+  ],
+  "famous_for_en": [
+   "Mainamati Buddhist ruins",
+   "Shalban Vihara",
+   "Rasomalai (Roshmalai)"
+  ],
+  "famous_for_bn": [
+   "ময়নামতি বৌদ্ধ নিদর্শন",
+   "শালবন বিহার",
+   "রসমালাই"
+  ],
+  "food_en": [
+   "Roshmalai",
+   "Khadi cloth"
+  ],
+  "food_bn": [
+   "রসমালাই",
+   "খাদি কাপড়"
+  ],
+  "rivers_en": [
+   "Gomti"
+  ],
+  "rivers_bn": [
+   "গোমতী"
+  ],
+  "description_en": "Famous nationwide for its original Roshmalai and the ancient Buddhist ruins of Mainamati and Shalban Vihara, dating back over a thousand years.",
+  "description_bn": "মূল রসমালাই ও হাজার বছরের পুরনো ময়নামতি-শালবন বিহারের বৌদ্ধ নিদর্শনের জন্য সারাদেশে বিখ্যাত।"
+ },
+ {
+  "id": "brahmanbaria",
+  "name_en": "Brahmanbaria",
+  "name_bn": "ব্রাহ্মণবাড়িয়া",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 1927,
+  "population": 3221457,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Ustad Alauddin Khan's homeland (classical music heritage)"
+  ],
+  "famous_for_bn": [
+   "ওস্তাদ আলাউদ্দিন খাঁর জন্মভূমি (শাস্ত্রীয় সংগীত ঐতিহ্য)"
+  ],
+  "food_en": [
+   "Birthday cake town (Nabinagar sweets)"
+  ],
+  "food_bn": [
+   "নবীনগরের মিষ্টি"
+  ],
+  "rivers_en": [
+   "Titas",
+   "Meghna"
+  ],
+  "rivers_bn": [
+   "তিতাস",
+   "মেঘনা"
+  ],
+  "description_en": "Known as a cradle of Bengali classical music, birthplace of legendary musician Ustad Alauddin Khan, on the banks of the Titas river.",
+  "description_bn": "বাংলা শাস্ত্রীয় সংগীতের সূতিকাগার হিসেবে পরিচিত, কিংবদন্তি সংগীতজ্ঞ ওস্তাদ আলাউদ্দিন খাঁর জন্মভূমি, তিতাস নদীর তীরে অবস্থিত।"
+ },
+ {
+  "id": "noakhali",
+  "name_en": "Noakhali",
+  "name_bn": "নোয়াখালী",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 4202,
+  "population": 3632143,
+  "tags": [
+   "river",
+   "coastal"
+  ],
+  "famous_for_en": [
+   "Char lands",
+   "Gandhi Ashram (Jayag)"
+  ],
+  "famous_for_bn": [
+   "চরাঞ্চল",
+   "গান্ধী আশ্রম (জয়াগ)"
+  ],
+  "food_en": [
+   "Noakhali's mezban-style dishes"
+  ],
+  "food_bn": [
+   "নোয়াখালীর ভাষার খাবার-সংস্কৃতি"
+  ],
+  "rivers_en": [
+   "Meghna",
+   "Feni"
+  ],
+  "rivers_bn": [
+   "মেঘনা",
+   "ফেনী"
+  ],
+  "description_en": "A coastal district famous for its distinctive dialect and vast new char (river-deposited) lands continually forming along the Meghna estuary.",
+  "description_bn": "নিজস্ব স্বতন্ত্র উপভাষা ও মেঘনার মোহনায় ক্রমাগত জেগে ওঠা চরাঞ্চলের জন্য বিখ্যাত একটি উপকূলীয় জেলা।"
+ },
+ {
+  "id": "feni",
+  "name_en": "Feni",
+  "name_bn": "ফেনী",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 928,
+  "population": 1503800,
+  "tags": [
+   "river",
+   "border"
+  ],
+  "famous_for_en": [
+   "Muhuri Project",
+   "Bijoy Singh Dighi"
+  ],
+  "famous_for_bn": [
+   "মুহুরী প্রজেক্ট",
+   "বিজয় সিংহ দিঘী"
+  ],
+  "food_en": [
+   "Khaza (sweet)"
+  ],
+  "food_bn": [
+   "খাজা"
+  ],
+  "rivers_en": [
+   "Feni",
+   "Muhuri"
+  ],
+  "rivers_bn": [
+   "ফেনী",
+   "মুহুরী"
+  ],
+  "description_en": "A small border district known for the Muhuri irrigation project and as the home district of many overseas Bangladeshi expatriates.",
+  "description_bn": "মুহুরী সেচ প্রকল্পের জন্য পরিচিত ছোট একটি সীমান্ত জেলা, বহু প্রবাসী বাংলাদেশির আদি নিবাস।"
+ },
+ {
+  "id": "laxmipur",
+  "name_en": "Lakshmipur",
+  "name_bn": "লক্ষ্মীপুর",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 1456,
+  "population": 1729188,
+  "tags": [
+   "river",
+   "coastal"
+  ],
+  "famous_for_en": [
+   "Meghna riverside char lands"
+  ],
+  "famous_for_bn": [
+   "মেঘনা নদীর তীরবর্তী চরাঞ্চল"
+  ],
+  "food_en": [
+   "Coconut-based sweets"
+  ],
+  "food_bn": [
+   "নারিকেলের মিষ্টি"
+  ],
+  "rivers_en": [
+   "Meghna"
+  ],
+  "rivers_bn": [
+   "মেঘনা"
+  ],
+  "description_en": "A coastal Meghna-side district known for coconut cultivation and shifting char lands.",
+  "description_bn": "নারিকেল চাষ ও পরিবর্তনশীল চরাঞ্চলের জন্য পরিচিত মেঘনা নদীর তীরবর্তী একটি উপকূলীয় জেলা।"
+ },
+ {
+  "id": "chandpur",
+  "name_en": "Chandpur",
+  "name_bn": "চাঁদপুর",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 1704,
+  "population": 2635572,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Meghna-Padma-Dakatia confluence",
+   "Hilsa fishing hub"
+  ],
+  "famous_for_bn": [
+   "মেঘনা-পদ্মা-ডাকাতিয়ার মোহনা",
+   "ইলিশের বাড়ি"
+  ],
+  "food_en": [
+   "Hilsa (Ilish) fish dishes"
+  ],
+  "food_bn": [
+   "ইলিশ মাছের পদ"
+  ],
+  "rivers_en": [
+   "Meghna",
+   "Dakatia"
+  ],
+  "rivers_bn": [
+   "মেঘনা",
+   "ডাকাতিয়া"
+  ],
+  "description_en": "Known as the 'Hilsa Capital' of Bangladesh, sitting at the confluence of the Meghna, Padma and Dakatia rivers.",
+  "description_bn": "মেঘনা, পদ্মা ও ডাকাতিয়া নদীর মোহনায় অবস্থিত, বাংলাদেশের 'ইলিশের রাজধানী' হিসেবে পরিচিত।"
+ },
+ {
+  "id": "khagrachhari",
+  "name_en": "Khagrachhari",
+  "name_bn": "খাগড়াছড়ি",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 2699,
+  "population": 691447,
+  "tags": [
+   "hill",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Alutila Cave",
+   "Risang Waterfall",
+   "indigenous culture"
+  ],
+  "famous_for_bn": [
+   "আলুটিলা গুহা",
+   "রিছাং ঝর্ণা",
+   "আদিবাসী সংস্কৃতি"
+  ],
+  "food_en": [
+   "Bamboo chicken (bansh-murgi)"
+  ],
+  "food_bn": [
+   "বাঁশ মুরগি"
+  ],
+  "rivers_en": [
+   "Chengi",
+   "Feni"
+  ],
+  "rivers_bn": [
+   "চেঙ্গী",
+   "ফেনী"
+  ],
+  "description_en": "A scenic hill district in the Chittagong Hill Tracts, home to indigenous communities, the mysterious Alutila cave, and Risang waterfall.",
+  "description_bn": "চট্টগ্রাম পার্বত্য অঞ্চলের একটি মনোরম পাহাড়ি জেলা, আদিবাসী জনগোষ্ঠী, রহস্যময় আলুটিলা গুহা ও রিছাং ঝর্ণার জন্য বিখ্যাত।"
+ },
+ {
+  "id": "rangamati",
+  "name_en": "Rangamati",
+  "name_bn": "রাঙ্গামাটি",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 6116,
+  "population": 743088,
+  "tags": [
+   "hill",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Kaptai Lake",
+   "hanging bridge",
+   "indigenous handicrafts"
+  ],
+  "famous_for_bn": [
+   "কাপ্তাই হ্রদ",
+   "ঝুলন্ত সেতু",
+   "আদিবাসী হস্তশিল্প"
+  ],
+  "food_en": [
+   "Bamboo shoot curry"
+  ],
+  "food_bn": [
+   "বাঁশ কোড়লের তরকারি"
+  ],
+  "rivers_en": [
+   "Karnaphuli"
+  ],
+  "rivers_bn": [
+   "কর্ণফুলী"
+  ],
+  "description_en": "The largest district by area in the Chittagong Hill Tracts, centred on the scenic man-made Kaptai Lake and its famous hanging bridge.",
+  "description_bn": "চট্টগ্রাম পার্বত্য অঞ্চলের আয়তনে বৃহত্তম জেলা, মনোরম কৃত্রিম কাপ্তাই হ্রদ ও বিখ্যাত ঝুলন্ত সেতুর জন্য পরিচিত।"
+ },
+ {
+  "id": "bandarban",
+  "name_en": "Bandarban",
+  "name_bn": "বান্দরবান",
+  "division_en": "Chattogram",
+  "division_bn": "চট্টগ্রাম",
+  "area_sqkm": 4479,
+  "population": 404062,
+  "tags": [
+   "hill",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Nilgiri",
+   "Nafakhum Waterfall",
+   "Boga Lake",
+   "highest peaks"
+  ],
+  "famous_for_bn": [
+   "নীলগিরি",
+   "নাফাখুম জলপ্রপাত",
+   "বগা লেক",
+   "সর্বোচ্চ পর্বতচূড়া"
+  ],
+  "food_en": [
+   "Bamboo-cooked dishes"
+  ],
+  "food_bn": [
+   "বাঁশে রান্না করা খাবার"
+  ],
+  "rivers_en": [
+   "Sangu",
+   "Matamuhuri"
+  ],
+  "rivers_bn": [
+   "সাঙ্গু",
+   "মাতামুহুরী"
+  ],
+  "description_en": "Home to Bangladesh's highest hills and peaks including Keokradong and Tazingdong, plus the mystical Boga Lake and cloud-covered Nilgiri.",
+  "description_bn": "কেওক্রাডং ও তাজিংডংসহ বাংলাদেশের সর্বোচ্চ পাহাড়-পর্বতচূড়ার আবাসস্থল, রহস্যময় বগা লেক ও মেঘে ঢাকা নীলগিরির জন্য বিখ্যাত।"
+ },
+ {
+  "id": "rajshahi",
+  "name_en": "Rajshahi",
+  "name_bn": "রাজশাহী",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 2407,
+  "population": 2896392,
+  "tags": [
+   "river",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Varendra Research Museum",
+   "Puthia Temple Complex",
+   "silk & mango"
+  ],
+  "famous_for_bn": [
+   "ভারেন্দ্র রিসার্চ মিউজিয়াম",
+   "পুঠিয়া মন্দির কমপ্লেক্স",
+   "রেশম ও আম"
+  ],
+  "food_en": [
+   "Mango (Rajshahi aam)",
+   "silk sweets"
+  ],
+  "food_bn": [
+   "রাজশাহীর আম",
+   "রেশমের মিষ্টি"
+  ],
+  "rivers_en": [
+   "Padma"
+  ],
+  "rivers_bn": [
+   "পদ্মা"
+  ],
+  "description_en": "Known as the 'Silk City' and famous nationwide for its mangoes, with the historic Puthia temple complex and Padma riverside views.",
+  "description_bn": "'সিল্ক সিটি' নামে পরিচিত এবং আমের জন্য সারাদেশে বিখ্যাত, ঐতিহাসিক পুঠিয়া মন্দির কমপ্লেক্স ও পদ্মা নদীর তীরের জন্য পরিচিত।"
+ },
+ {
+  "id": "bogura",
+  "name_en": "Bogura",
+  "name_bn": "বগুড়া",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 2919,
+  "population": 3800879,
+  "tags": [
+   "archaeological",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Mahasthangarh (ancient city)",
+   "Bogura's doi (yogurt)"
+  ],
+  "famous_for_bn": [
+   "মহাস্থানগড়",
+   "বগুড়ার দই"
+  ],
+  "food_en": [
+   "Bogura's doi (curd)"
+  ],
+  "food_bn": [
+   "বগুড়ার দই"
+  ],
+  "rivers_en": [
+   "Karatoya"
+  ],
+  "rivers_bn": [
+   "করতোয়া"
+  ],
+  "description_en": "Home to Mahasthangarh, one of the oldest archaeological sites in Bangladesh dating back to the 3rd century BCE, and famous for its unique yogurt.",
+  "description_bn": "মহাস্থানগড়ের আবাসস্থল, খ্রিষ্টপূর্ব তৃতীয় শতাব্দীর বাংলাদেশের অন্যতম প্রাচীন প্রত্নস্থান, এবং স্বতন্ত্র স্বাদের দইয়ের জন্য বিখ্যাত।"
+ },
+ {
+  "id": "pabna",
+  "name_en": "Pabna",
+  "name_bn": "পাবনা",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 2371,
+  "population": 2726411,
+  "tags": [
+   "historical",
+   "river"
+  ],
+  "famous_for_en": [
+   "Hardinge Bridge",
+   "Jagannath Temple"
+  ],
+  "famous_for_bn": [
+   "হার্ডিঞ্জ ব্রিজ",
+   "জগন্নাথ মন্দির"
+  ],
+  "food_en": [
+   "Ghee (clarified butter)"
+  ],
+  "food_bn": [
+   "ঘি"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Jamuna"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "যমুনা"
+  ],
+  "description_en": "Known historically for its mental health institute and today for quality ghee production and the century-old Hardinge Bridge over the Padma.",
+  "description_bn": "ঐতিহাসিকভাবে মানসিক হাসপাতালের জন্য পরিচিত এবং বর্তমানে মানসম্পন্ন ঘি উৎপাদন ও পদ্মার উপর শতবর্ষী হার্ডিঞ্জ ব্রিজের জন্য বিখ্যাত।"
+ },
+ {
+  "id": "sirajganj",
+  "name_en": "Sirajganj",
+  "name_bn": "সিরাজগঞ্জ",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 2497,
+  "population": 3502424,
+  "tags": [
+   "river",
+   "industrial"
+  ],
+  "famous_for_en": [
+   "Bangabandhu Bridge (western end)",
+   "textile/handloom industry"
+  ],
+  "famous_for_bn": [
+   "বঙ্গবন্ধু সেতু (পশ্চিম প্রান্ত)",
+   "তাঁত শিল্প"
+  ],
+  "food_en": [
+   "Local yogurt"
+  ],
+  "food_bn": [
+   "দই"
+  ],
+  "rivers_en": [
+   "Jamuna"
+  ],
+  "rivers_bn": [
+   "যমুনা"
+  ],
+  "description_en": "Sits at the western end of the Bangabandhu Bridge over the Jamuna, and is one of the country's major handloom textile hubs.",
+  "description_bn": "যমুনার উপর বঙ্গবন্ধু সেতুর পশ্চিম প্রান্তে অবস্থিত এবং দেশের অন্যতম প্রধান তাঁত শিল্প কেন্দ্র।"
+ },
+ {
+  "id": "natore",
+  "name_en": "Natore",
+  "name_bn": "নাটোর",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 1900,
+  "population": 1938188,
+  "tags": [
+   "historical"
+  ],
+  "famous_for_en": [
+   "Natore Rajbari (Rani Bhabani's palace)",
+   "Chalan Beel"
+  ],
+  "famous_for_bn": [
+   "নাটোর রাজবাড়ি",
+   "চলনবিল"
+  ],
+  "food_en": [
+   "Natore's kacha gollah"
+  ],
+  "food_bn": [
+   "নাটোরের কাঁচাগোল্লা"
+  ],
+  "rivers_en": [
+   "Narod"
+  ],
+  "rivers_bn": [
+   "নারদ"
+  ],
+  "description_en": "Famous for the historic Natore Rajbari palace of Rani Bhabani and its unique sweet, kacha gollah (a soft, semi-solid rosogolla variant).",
+  "description_bn": "রানী ভবানীর ঐতিহাসিক নাটোর রাজবাড়ি ও এর বিশেষ মিষ্টি কাঁচাগোল্লার জন্য বিখ্যাত।"
+ },
+ {
+  "id": "joypurhat",
+  "name_en": "Joypurhat",
+  "name_bn": "জয়পুরহাট",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 965,
+  "population": 981874,
+  "tags": [
+   "archaeological",
+   "industrial"
+  ],
+  "famous_for_en": [
+   "Bangladesh Sugar Mill",
+   "Paharpur nearby heritage"
+  ],
+  "famous_for_bn": [
+   "বাংলাদেশ চিনিকল",
+   "পাহাড়পুরের নিকটবর্তী ঐতিহ্য"
+  ],
+  "food_en": [
+   "Sugar-based sweets"
+  ],
+  "food_bn": [
+   "চিনির মিষ্টি"
+  ],
+  "rivers_en": [
+   "Tulshiganga"
+  ],
+  "rivers_bn": [
+   "তুলশীগঙ্গা"
+  ],
+  "description_en": "Bangladesh's smallest district by area in the Rajshahi division, historically known for sugar mill industry and limestone deposits.",
+  "description_bn": "রাজশাহী বিভাগের আয়তনে ক্ষুদ্রতম জেলা, ঐতিহাসিকভাবে চিনিকল শিল্প ও চুনাপাথরের জন্য পরিচিত।"
+ },
+ {
+  "id": "naogaon",
+  "name_en": "Naogaon",
+  "name_bn": "নওগাঁ",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 3435,
+  "population": 2814188,
+  "tags": [
+   "archaeological",
+   "religious"
+  ],
+  "famous_for_en": [
+   "Paharpur (Somapura Mahavihara, UNESCO site)",
+   "Kusumba Mosque"
+  ],
+  "famous_for_bn": [
+   "পাহাড়পুর (সোমপুর মহাবিহার, ইউনেস্কো ঐতিহ্য)",
+   "কুসুম্বা মসজিদ"
+  ],
+  "food_en": [
+   "Rice varieties"
+  ],
+  "food_bn": [
+   "বিভিন্ন জাতের চাল"
+  ],
+  "rivers_en": [
+   "Atrai",
+   "Jamuna"
+  ],
+  "rivers_bn": [
+   "আত্রাই",
+   "যমুনা"
+  ],
+  "description_en": "Home to Paharpur's Somapura Mahavihara, a UNESCO World Heritage Site and one of the largest Buddhist monasteries south of the Himalayas.",
+  "description_bn": "পাহাড়পুরের সোমপুর মহাবিহারের আবাসস্থল, একটি ইউনেস্কো বিশ্ব ঐতিহ্যস্থল ও হিমালয়ের দক্ষিণে অন্যতম বৃহৎ বৌদ্ধবিহার।"
+ },
+ {
+  "id": "chapainawabganj",
+  "name_en": "Chapainawabganj",
+  "name_bn": "চাঁপাইনবাবগঞ্জ",
+  "division_en": "Rajshahi",
+  "division_bn": "রাজশাহী",
+  "area_sqkm": 1702,
+  "population": 1647521,
+  "tags": [
+   "border",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Choto Sona Mosque",
+   "mango orchards"
+  ],
+  "famous_for_bn": [
+   "ছোট সোনা মসজিদ",
+   "আমের বাগান"
+  ],
+  "food_en": [
+   "Mango (fazli, khirsapati)"
+  ],
+  "food_bn": [
+   "আম (ফজলি, খিরসাপাতি)"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Mahananda"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "মহানন্দা"
+  ],
+  "description_en": "Known as Bangladesh's mango capital, producing some of the country's sweetest mango varieties, alongside the 15th-century Choto Sona Mosque.",
+  "description_bn": "বাংলাদেশের আমের রাজধানী হিসেবে পরিচিত, দেশের সবচেয়ে মিষ্টি জাতের আম উৎপাদন করে; পঞ্চদশ শতাব্দীর ছোট সোনা মসজিদের জন্যও বিখ্যাত।"
+ },
+ {
+  "id": "khulna",
+  "name_en": "Khulna",
+  "name_bn": "খুলনা",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 4394,
+  "population": 2378971,
+  "tags": [
+   "forest",
+   "industrial",
+   "river"
+  ],
+  "famous_for_en": [
+   "Sundarbans gateway",
+   "Khan Jahan Ali heritage"
+  ],
+  "famous_for_bn": [
+   "সুন্দরবনের প্রবেশদ্বার",
+   "খান জাহান আলীর ঐতিহ্য"
+  ],
+  "food_en": [
+   "Chuinga pork-style beef curry"
+  ],
+  "food_bn": [
+   "চুইঝাল দিয়ে রান্না"
+  ],
+  "rivers_en": [
+   "Rupsha",
+   "Bhairab"
+  ],
+  "rivers_bn": [
+   "রূপসা",
+   "ভৈরব"
+  ],
+  "description_en": "Bangladesh's third-largest city and the main gateway to the Sundarbans, the world's largest mangrove forest.",
+  "description_bn": "বাংলাদেশের তৃতীয় বৃহত্তম শহর ও বিশ্বের বৃহত্তম ম্যানগ্রোভ বন সুন্দরবনের প্রধান প্রবেশদ্বার।"
+ },
+ {
+  "id": "jessore",
+  "name_en": "Jashore",
+  "name_bn": "যশোর",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 2606,
+  "population": 2925436,
+  "tags": [
+   "historical",
+   "border"
+  ],
+  "famous_for_en": [
+   "Jessore Cantonment",
+   "flower cultivation (Gaduri)"
+  ],
+  "famous_for_bn": [
+   "যশোর সেনানিবাস",
+   "ফুল চাষ (গদখালী)"
+  ],
+  "food_en": [
+   "Jamtola sweets"
+  ],
+  "food_bn": [
+   "জামতলার মিষ্টি"
+  ],
+  "rivers_en": [
+   "Bhairab",
+   "Kapotaksha"
+  ],
+  "rivers_bn": [
+   "ভৈরব",
+   "কপোতাক্ষ"
+  ],
+  "description_en": "Known as the 'Flower Capital' of Bangladesh (Gaduri/Godkhali flower market) and the first district liberated during the 1971 Liberation War.",
+  "description_bn": "বাংলাদেশের 'ফুলের রাজধানী' (গদখালী ফুলের বাজার) হিসেবে পরিচিত, ১৯৭১ সালে মুক্তিযুদ্ধে সর্বপ্রথম মুক্ত হওয়া জেলা।"
+ },
+ {
+  "id": "kushtia",
+  "name_en": "Kushtia",
+  "name_bn": "কুষ্টিয়া",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 1608,
+  "population": 2103526,
+  "tags": [
+   "historical",
+   "river"
+  ],
+  "famous_for_en": [
+   "Lalon Shah's shrine (Lalon Akhra)",
+   "Rabindranath's Shilaidaha Kuthibari"
+  ],
+  "famous_for_bn": [
+   "লালন শাহের আখড়া",
+   "রবীন্দ্রনাথের শিলাইদহ কুঠিবাড়ি"
+  ],
+  "food_en": [
+   "Tilkuti (sesame sweets)"
+  ],
+  "food_bn": [
+   "তিলকুটি"
+  ],
+  "rivers_en": [
+   "Padma",
+   "Gorai"
+  ],
+  "rivers_bn": [
+   "পদ্মা",
+   "গড়াই"
+  ],
+  "description_en": "Home to the shrine of mystic poet Lalon Shah and Shilaidaha Kuthibari, where Rabindranath Tagore wrote many of his famous works.",
+  "description_bn": "রহস্যবাদী কবি লালন শাহের আখড়া ও রবীন্দ্রনাথ ঠাকুরের বিখ্যাত রচনার স্থান শিলাইদহ কুঠিবাড়ির জন্য বিখ্যাত।"
+ },
+ {
+  "id": "bagerhat",
+  "name_en": "Bagerhat",
+  "name_bn": "বাগেরহাট",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 3959,
+  "population": 1476090,
+  "tags": [
+   "religious",
+   "historical",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Sixty Dome Mosque (UNESCO site)",
+   "Sundarbans edge"
+  ],
+  "famous_for_bn": [
+   "ষাট গম্বুজ মসজিদ (ইউনেস্কো ঐতিহ্য)",
+   "সুন্দরবনের প্রান্ত"
+  ],
+  "food_en": [
+   "Shrimp dishes (chingri)"
+  ],
+  "food_bn": [
+   "চিংড়ির পদ"
+  ],
+  "rivers_en": [
+   "Bhairab"
+  ],
+  "rivers_bn": [
+   "ভৈরব"
+  ],
+  "description_en": "Home to the 15th-century Sixty Dome Mosque, a UNESCO World Heritage Site built by Khan Jahan Ali, and part of the Sundarbans mangrove belt.",
+  "description_bn": "খান জাহান আলীর নির্মিত পঞ্চদশ শতাব্দীর ষাট গম্বুজ মসজিদের আবাসস্থল, একটি ইউনেস্কো বিশ্ব ঐতিহ্যস্থল, এবং সুন্দরবনের অংশ।"
+ },
+ {
+  "id": "satkhira",
+  "name_en": "Satkhira",
+  "name_bn": "সাতক্ষীরা",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 3858,
+  "population": 2145764,
+  "tags": [
+   "forest",
+   "border"
+  ],
+  "famous_for_en": [
+   "Sundarbans (large share)",
+   "shrimp farming"
+  ],
+  "famous_for_bn": [
+   "সুন্দরবনের বড় অংশ",
+   "চিংড়ি চাষ"
+  ],
+  "food_en": [
+   "White sandesh (Satkhira)"
+  ],
+  "food_bn": [
+   "সাতক্ষীরার সন্দেশ"
+  ],
+  "rivers_en": [
+   "Ichamati",
+   "Kholpetua"
+  ],
+  "rivers_bn": [
+   "ইছামতি",
+   "খোলপেটুয়া"
+  ],
+  "description_en": "Holds a large share of the Sundarbans and is one of Bangladesh's leading shrimp (chingri) farming districts.",
+  "description_bn": "সুন্দরবনের একটি বড় অংশ ধারণ করে এবং বাংলাদেশের অন্যতম শীর্ষ চিংড়ি চাষের জেলা।"
+ },
+ {
+  "id": "jhenaidah",
+  "name_en": "Jhenaidah",
+  "name_bn": "ঝিনাইদহ",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 1949,
+  "population": 1889936,
+  "tags": [
+   "historical"
+  ],
+  "famous_for_en": [
+   "Nolgorha Mazar",
+   "Gazir Dorga"
+  ],
+  "famous_for_bn": [
+   "নলগোড়া মাজার",
+   "গাজীর দরগা"
+  ],
+  "food_en": [
+   "Local jackfruit"
+  ],
+  "food_bn": [
+   "কাঁঠাল"
+  ],
+  "rivers_en": [
+   "Nabaganga"
+  ],
+  "rivers_bn": [
+   "নবগঙ্গা"
+  ],
+  "description_en": "A historically significant district known for its shrines and connections to Bengal's Sufi heritage.",
+  "description_bn": "সুফি সাধকদের দরগাসমূহ ও ধর্মীয় ঐতিহ্যের জন্য পরিচিত একটি ঐতিহাসিক গুরুত্বপূর্ণ জেলা।"
+ },
+ {
+  "id": "magura",
+  "name_en": "Magura",
+  "name_bn": "মাগুরা",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 1049,
+  "population": 918419,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Sriপুর Zamindar Bari heritage"
+  ],
+  "famous_for_bn": [
+   "শ্রীপুর জমিদারবাড়ি ঐতিহ্য"
+  ],
+  "food_en": [
+   "Local rasogolla"
+  ],
+  "food_bn": [
+   "রসগোল্লা"
+  ],
+  "rivers_en": [
+   "Kumar",
+   "Nabaganga"
+  ],
+  "rivers_bn": [
+   "কুমার",
+   "নবগঙ্গা"
+  ],
+  "description_en": "A small, quiet agrarian district in Khulna division known for its rural charm and riverside villages.",
+  "description_bn": "খুলনা বিভাগের একটি ছোট, শান্ত কৃষিনির্ভর জেলা, গ্রামীণ সৌন্দর্য ও নদীতীরের গ্রামের জন্য পরিচিত।"
+ },
+ {
+  "id": "narail",
+  "name_en": "Narail",
+  "name_bn": "নড়াইল",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 990,
+  "population": 721668,
+  "tags": [
+   "historical"
+  ],
+  "famous_for_en": [
+   "SM Sultan's homestead & art gallery"
+  ],
+  "famous_for_bn": [
+   "এস এম সুলতানের বাড়ি ও চিত্রশালা"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Chitra",
+   "Nabaganga"
+  ],
+  "rivers_bn": [
+   "চিত্রা",
+   "নবগঙ্গা"
+  ],
+  "description_en": "Home town of legendary painter S. M. Sultan, whose homestead on the Chitra river is now a museum and art gallery.",
+  "description_bn": "কিংবদন্তি চিত্রশিল্পী এস এম সুলতানের জন্মস্থান, চিত্রা নদীর তীরে তাঁর বাড়ি এখন জাদুঘর ও চিত্রশালা।"
+ },
+ {
+  "id": "chuadanga",
+  "name_en": "Chuadanga",
+  "name_bn": "চুয়াডাঙ্গা",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 1177,
+  "population": 1204068,
+  "tags": [
+   "border",
+   "historical"
+  ],
+  "famous_for_en": [
+   "Mujibnagar (nearby, Meherpur) proximity",
+   "hottest district climate"
+  ],
+  "famous_for_bn": [
+   "মুজিবনগরের নিকটবর্তী",
+   "সবচেয়ে উষ্ণ জলবায়ুর জেলা"
+  ],
+  "food_en": [
+   "Local jackfruit and mango"
+  ],
+  "food_bn": [
+   "কাঁঠাল ও আম"
+  ],
+  "rivers_en": [
+   "Mathabhanga"
+  ],
+  "rivers_bn": [
+   "মাথাভাঙ্গা"
+  ],
+  "description_en": "Often records the highest temperatures in Bangladesh during summer, and lies close to Mujibnagar, where the first Bangladeshi government was formed in 1971.",
+  "description_bn": "গ্রীষ্মকালে প্রায়ই বাংলাদেশের সর্বোচ্চ তাপমাত্রা রেকর্ড করে; ১৯৭১ সালে প্রথম বাংলাদেশ সরকার গঠিত হওয়া মুজিবনগরের কাছে অবস্থিত।"
+ },
+ {
+  "id": "meherpur",
+  "name_en": "Meherpur",
+  "name_bn": "মেহেরপুর",
+  "division_en": "Khulna",
+  "division_bn": "খুলনা",
+  "area_sqkm": 716,
+  "population": 655392,
+  "tags": [
+   "historical",
+   "border"
+  ],
+  "famous_for_en": [
+   "Mujibnagar Memorial Complex"
+  ],
+  "famous_for_bn": [
+   "মুজিবনগর স্মৃতিসৌধ কমপ্লেক্স"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Bhairab"
+  ],
+  "rivers_bn": [
+   "ভৈরব"
+  ],
+  "description_en": "Bangladesh's smallest district by area, home to the historic Mujibnagar Memorial where the first Bangladeshi government took oath in 1971.",
+  "description_bn": "বাংলাদেশের আয়তনে ক্ষুদ্রতম জেলা, ১৯৭১ সালে প্রথম বাংলাদেশ সরকারের শপথ গ্রহণের ঐতিহাসিক স্থান মুজিবনগর স্মৃতিসৌধের আবাসস্থল।"
+ },
+ {
+  "id": "barishal",
+  "name_en": "Barishal",
+  "name_bn": "বরিশাল",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 2790,
+  "population": 2801164,
+  "tags": [
+   "river",
+   "haor"
+  ],
+  "famous_for_en": [
+   "floating guava market",
+   "Durga Sagar Dighi"
+  ],
+  "famous_for_bn": [
+   "ভাসমান পেয়ারা বাজার",
+   "দুর্গাসাগর দিঘী"
+  ],
+  "food_en": [
+   "Guava (peyara)"
+  ],
+  "food_bn": [
+   "পেয়ারা"
+  ],
+  "rivers_en": [
+   "Kirtankhola",
+   "Arial Khan"
+  ],
+  "rivers_bn": [
+   "কীর্তনখোলা",
+   "আড়িয়াল খাঁ"
+  ],
+  "description_en": "Known as the 'Venice of Bengal' for its dense network of canals, famous for its floating guava markets in the monsoon season.",
+  "description_bn": "খালের ঘন নেটওয়ার্কের জন্য 'বাংলার ভেনিস' নামে পরিচিত, বর্ষাকালে ভাসমান পেয়ারার বাজারের জন্য বিখ্যাত।"
+ },
+ {
+  "id": "bhola",
+  "name_en": "Bhola",
+  "name_bn": "ভোলা",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 3403,
+  "population": 1922441,
+  "tags": [
+   "river",
+   "coastal"
+  ],
+  "famous_for_en": [
+   "Largest island district",
+   "natural gas fields"
+  ],
+  "famous_for_bn": [
+   "বৃহত্তম দ্বীপজেলা",
+   "প্রাকৃতিক গ্যাসক্ষেত্র"
+  ],
+  "food_en": [
+   "Hilsa fish dishes"
+  ],
+  "food_bn": [
+   "ইলিশ মাছের পদ"
+  ],
+  "rivers_en": [
+   "Meghna",
+   "Tetulia"
+  ],
+  "rivers_bn": [
+   "মেঘনা",
+   "তেঁতুলিয়া"
+  ],
+  "description_en": "Bangladesh's largest island district, formed by Meghna river sediments, known for natural gas reserves and abundant hilsa fishing.",
+  "description_bn": "মেঘনার পলি জমে গঠিত বাংলাদেশের বৃহত্তম দ্বীপজেলা, প্রাকৃতিক গ্যাস মজুদ ও প্রচুর ইলিশ মাছের জন্য পরিচিত।"
+ },
+ {
+  "id": "patuakhali",
+  "name_en": "Patuakhali",
+  "name_bn": "পটুয়াখালী",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 3220,
+  "population": 1535854,
+  "tags": [
+   "beach",
+   "coastal"
+  ],
+  "famous_for_en": [
+   "Kuakata (Sea beach with sunrise & sunset view)"
+  ],
+  "famous_for_bn": [
+   "কুয়াকাটা (সূর্যোদয়-সূর্যাস্ত দুটোই দেখা যায়)"
+  ],
+  "food_en": [
+   "Fresh sea fish"
+  ],
+  "food_bn": [
+   "তাজা সামুদ্রিক মাছ"
+  ],
+  "rivers_en": [
+   "Payra",
+   "Tetulia"
+  ],
+  "rivers_bn": [
+   "পায়রা",
+   "তেঁতুলিয়া"
+  ],
+  "description_en": "Home to Kuakata, one of the very few beaches in the world where both sunrise and sunset over the sea can be seen from the same spot.",
+  "description_bn": "কুয়াকাটার আবাসস্থল, বিশ্বের বিরল কয়েকটি সৈকতের একটি যেখানে একই স্থান থেকে সূর্যোদয় ও সূর্যাস্ত দুটোই দেখা যায়।"
+ },
+ {
+  "id": "barguna",
+  "name_en": "Barguna",
+  "name_bn": "বরগুনা",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 1831,
+  "population": 892781,
+  "tags": [
+   "coastal",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Sundarbans edge",
+   "Padma-Meghna delta"
+  ],
+  "famous_for_bn": [
+   "সুন্দরবনের প্রান্ত",
+   "পদ্মা-মেঘনার বদ্বীপ"
+  ],
+  "food_en": [
+   "Fresh seafood"
+  ],
+  "food_bn": [
+   "তাজা সামুদ্রিক মাছ"
+  ],
+  "rivers_en": [
+   "Payra",
+   "Bishkhali"
+  ],
+  "rivers_bn": [
+   "পায়রা",
+   "বিষখালী"
+  ],
+  "description_en": "A coastal district bordering the Sundarbans, frequently in the path of Bay of Bengal cyclones, with a strong fishing economy.",
+  "description_bn": "সুন্দরবনের সীমান্তবর্তী একটি উপকূলীয় জেলা, প্রায়ই বঙ্গোপসাগরীয় ঘূর্ণিঝড়ের পথে পড়ে, মাছ ধরার অর্থনীতি শক্তিশালী।"
+ },
+ {
+  "id": "jhalokati",
+  "name_en": "Jhalokati",
+  "name_bn": "ঝালকাঠি",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 758,
+  "population": 682669,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Sujabad Fort",
+   "riverine trade heritage"
+  ],
+  "famous_for_bn": [
+   "সুজাবাদ কেল্লা",
+   "নদীবাণিজ্য ঐতিহ্য"
+  ],
+  "food_en": [
+   "Guava and coconut sweets"
+  ],
+  "food_bn": [
+   "পেয়ারা ও নারিকেলের মিষ্টি"
+  ],
+  "rivers_en": [
+   "Sugandha",
+   "Bishkhali"
+  ],
+  "rivers_bn": [
+   "সুগন্ধা",
+   "বিষখালী"
+  ],
+  "description_en": "One of Bangladesh's smallest districts, historically an important river-trade centre on the Sugandha river.",
+  "description_bn": "বাংলাদেশের অন্যতম ছোট জেলা, ঐতিহাসিকভাবে সুগন্ধা নদীর তীরে গুরুত্বপূর্ণ নদীবাণিজ্য কেন্দ্র।"
+ },
+ {
+  "id": "pirojpur",
+  "name_en": "Pirojpur",
+  "name_bn": "পিরোজপুর",
+  "division_en": "Barishal",
+  "division_bn": "বরিশাল",
+  "area_sqkm": 1308,
+  "population": 1113257,
+  "tags": [
+   "river",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Floating guava & pineapple gardens"
+  ],
+  "famous_for_bn": [
+   "ভাসমান পেয়ারা ও আনারস বাগান"
+  ],
+  "food_en": [
+   "Guava"
+  ],
+  "food_bn": [
+   "পেয়ারা"
+  ],
+  "rivers_en": [
+   "Baleshwar",
+   "Sandhya"
+  ],
+  "rivers_bn": [
+   "বলেশ্বর",
+   "সন্ধ্যা"
+  ],
+  "description_en": "Known for its unique floating orchards and gardens built on layers of water hyacinth, part of the same guava-belt as Barishal.",
+  "description_bn": "কচুরিপানার স্তরের উপর গড়া অনন্য ভাসমান বাগানের জন্য পরিচিত, বরিশালের পেয়ারা অঞ্চলের অংশ।"
+ },
+ {
+  "id": "sylhet",
+  "name_en": "Sylhet",
+  "name_bn": "সিলেট",
+  "division_en": "Sylhet",
+  "division_bn": "সিলেট",
+  "area_sqkm": 3452,
+  "population": 3856935,
+  "tags": [
+   "hill",
+   "tea",
+   "religious"
+  ],
+  "famous_for_en": [
+   "Tea gardens",
+   "Ratargul Swamp Forest",
+   "Jaflong",
+   "Shrine of Hazrat Shah Jalal"
+  ],
+  "famous_for_bn": [
+   "চা বাগান",
+   "রাতারগুল জলাবন",
+   "জাফলং",
+   "হযরত শাহজালালের মাজার"
+  ],
+  "food_en": [
+   "Seven-layer tea",
+   "Sylheti shatkora dishes"
+  ],
+  "food_bn": [
+   "সাত রঙের চা",
+   "সিলেটি সাতকরা রান্না"
+  ],
+  "rivers_en": [
+   "Surma",
+   "Kushiyara"
+  ],
+  "rivers_bn": [
+   "সুরমা",
+   "কুশিয়ারা"
+  ],
+  "description_en": "Bangladesh's tea capital, famous for rolling green tea gardens, Ratargul's freshwater swamp forest, and the shrine of Sufi saint Hazrat Shah Jalal.",
+  "description_bn": "বাংলাদেশের চা রাজধানী, সবুজ চা বাগান, রাতারগুলের মিঠাপানির জলাবন এবং সুফি সাধক হযরত শাহজালালের মাজারের জন্য বিখ্যাত।"
+ },
+ {
+  "id": "moulvibazar",
+  "name_en": "Moulvibazar",
+  "name_bn": "মৌলভীবাজার",
+  "division_en": "Sylhet",
+  "division_bn": "সিলেট",
+  "area_sqkm": 2799,
+  "population": 1919062,
+  "tags": [
+   "hill",
+   "tea",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Lawachara National Park",
+   "Madhabkunda Waterfall",
+   "tea estates"
+  ],
+  "famous_for_bn": [
+   "লাউয়াছড়া জাতীয় উদ্যান",
+   "মাধবকুণ্ড জলপ্রপাত",
+   "চা বাগান"
+  ],
+  "food_en": [
+   "Seven-layer tea (Nilkantha)"
+  ],
+  "food_bn": [
+   "সাত রঙের চা (নীলকণ্ঠ)"
+  ],
+  "rivers_en": [
+   "Manu",
+   "Dhalai"
+  ],
+  "rivers_bn": [
+   "মনু",
+   "ধলাই"
+  ],
+  "description_en": "Home to Lawachara National Park's rainforest, the spectacular Madhabkunda waterfall, and the world-famous seven-layer tea of Sreemangal.",
+  "description_bn": "লাউয়াছড়া জাতীয় উদ্যানের রেইনফরেস্ট, দর্শনীয় মাধবকুণ্ড জলপ্রপাত ও শ্রীমঙ্গলের বিখ্যাত সাত রঙের চায়ের জন্য পরিচিত।"
+ },
+ {
+  "id": "habiganj",
+  "name_en": "Habiganj",
+  "name_bn": "হবিগঞ্জ",
+  "division_en": "Sylhet",
+  "division_bn": "সিলেট",
+  "area_sqkm": 2636,
+  "population": 2089001,
+  "tags": [
+   "tea",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Satchari National Park",
+   "tea gardens"
+  ],
+  "famous_for_bn": [
+   "সাতছড়ি জাতীয় উদ্যান",
+   "চা বাগান"
+  ],
+  "food_en": [
+   "Tea"
+  ],
+  "food_bn": [
+   "চা"
+  ],
+  "rivers_en": [
+   "Khowai",
+   "Kushiyara"
+  ],
+  "rivers_bn": [
+   "খোয়াই",
+   "কুশিয়ারা"
+  ],
+  "description_en": "Known for Satchari National Park's biodiversity and rolling tea estates, part of Bangladesh's greater tea-growing Sylhet region.",
+  "description_bn": "সাতছড়ি জাতীয় উদ্যানের জীববৈচিত্র্য ও চা বাগানের জন্য পরিচিত, সিলেট অঞ্চলের চা উৎপাদনের অংশ।"
+ },
+ {
+  "id": "sunamganj",
+  "name_en": "Sunamganj",
+  "name_bn": "সুনামগঞ্জ",
+  "division_en": "Sylhet",
+  "division_bn": "সিলেট",
+  "area_sqkm": 3670,
+  "population": 2467968,
+  "tags": [
+   "haor",
+   "hill"
+  ],
+  "famous_for_en": [
+   "Tanguar Haor",
+   "Jadukata river",
+   "Shimul Bagan"
+  ],
+  "famous_for_bn": [
+   "টাঙ্গুয়ার হাওর",
+   "যাদুকাটা নদী",
+   "শিমুল বাগান"
+  ],
+  "food_en": [
+   "Haor fish"
+  ],
+  "food_bn": [
+   "হাওরের মাছ"
+  ],
+  "rivers_en": [
+   "Surma",
+   "Jadukata"
+  ],
+  "rivers_bn": [
+   "সুরমা",
+   "যাদুকাটা"
+  ],
+  "description_en": "Home to Tanguar Haor, a Ramsar-listed wetland ecosystem that transforms into a vast inland sea during monsoon, rich in migratory birds.",
+  "description_bn": "রামসার তালিকাভুক্ত জলাভূমি টাঙ্গুয়ার হাওরের আবাসস্থল, যা বর্ষায় বিশাল অন্তর্দেশীয় সাগরে রূপ নেয়, পরিযায়ী পাখির জন্য সমৃদ্ধ।"
+ },
+ {
+  "id": "rangpur",
+  "name_en": "Rangpur",
+  "name_bn": "রংপুর",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 2400,
+  "population": 3160758,
+  "tags": [
+   "historical",
+   "industrial"
+  ],
+  "famous_for_en": [
+   "Tajhat Palace",
+   "Carmichael College"
+  ],
+  "famous_for_bn": [
+   "তাজহাট জমিদারবাড়ি",
+   "কারমাইকেল কলেজ"
+  ],
+  "food_en": [
+   "Shidol (fermented fish paste)",
+   "Hariboti dishes"
+  ],
+  "food_bn": [
+   "শিদল",
+   "হারিভাঙ্গা"
+  ],
+  "rivers_en": [
+   "Ghaghot",
+   "Teesta"
+  ],
+  "rivers_bn": [
+   "ঘাঘট",
+   "তিস্তা"
+  ],
+  "description_en": "Home to the striking white marble Tajhat Palace and one of the country's oldest colleges, at the heart of northern Bangladesh.",
+  "description_bn": "উত্তর বাংলাদেশের কেন্দ্রস্থলে অবস্থিত, সাদা মার্বেলের তাজহাট জমিদারবাড়ি ও দেশের অন্যতম প্রাচীন কারমাইকেল কলেজের জন্য বিখ্যাত।"
+ },
+ {
+  "id": "dinajpur",
+  "name_en": "Dinajpur",
+  "name_bn": "দিনাজপুর",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 3438,
+  "population": 3140911,
+  "tags": [
+   "historical",
+   "agricultural"
+  ],
+  "famous_for_en": [
+   "Kantajew Temple",
+   "Dinajpur Rajbari",
+   "litchi orchards"
+  ],
+  "famous_for_bn": [
+   "কান্তজিউ মন্দির",
+   "দিনাজপুর রাজবাড়ি",
+   "লিচু বাগান"
+  ],
+  "food_en": [
+   "Litchi (lychee)",
+   "Katari-bhog rice"
+  ],
+  "food_bn": [
+   "লিচু",
+   "কাটারিভোগ চাল"
+  ],
+  "rivers_en": [
+   "Punarbhaba",
+   "Atrai"
+  ],
+  "rivers_bn": [
+   "পুনর্ভবা",
+   "আত্রাই"
+  ],
+  "description_en": "Famous for the intricately terracotta-carved Kantajew Temple and as Bangladesh's leading producer of litchi and fragrant Katari-bhog rice.",
+  "description_bn": "সূক্ষ্ম পোড়ামাটির কারুকাজের কান্তজিউ মন্দিরের জন্য বিখ্যাত এবং লিচু ও সুগন্ধি কাটারিভোগ চাল উৎপাদনে শীর্ষস্থানীয়।"
+ },
+ {
+  "id": "thakurgaon",
+  "name_en": "Thakurgaon",
+  "name_bn": "ঠাকুরগাঁও",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 1809,
+  "population": 1401855,
+  "tags": [
+   "agricultural",
+   "border"
+  ],
+  "famous_for_en": [
+   "Ramsagar National Park",
+   "agricultural plains"
+  ],
+  "famous_for_bn": [
+   "রামসাগর জাতীয় উদ্যান",
+   "কৃষি সমতলভূমি"
+  ],
+  "food_en": [
+   "Rice and jute produce"
+  ],
+  "food_bn": [
+   "ধান ও পাট"
+  ],
+  "rivers_en": [
+   "Tangon",
+   "Kulik"
+  ],
+  "rivers_bn": [
+   "টাংগন",
+   "কুলিক"
+  ],
+  "description_en": "A northern agricultural district known for Ramsagar's ancient man-made lake and vast rice fields near the Indian border.",
+  "description_bn": "রামসাগরের প্রাচীন কৃত্রিম হ্রদ ও ভারত সীমান্তের কাছে বিশাল ধানক্ষেতের জন্য পরিচিত উত্তরাঞ্চলের একটি কৃষিপ্রধান জেলা।"
+ },
+ {
+  "id": "panchagarh",
+  "name_en": "Panchagarh",
+  "name_bn": "পঞ্চগড়",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 1404,
+  "population": 987644,
+  "tags": [
+   "hill",
+   "tea",
+   "border"
+  ],
+  "famous_for_en": [
+   "Views of Kanchenjunga on clear days",
+   "tea gardens",
+   "Tetulia"
+  ],
+  "famous_for_bn": [
+   "পরিষ্কার দিনে কাঞ্চনজঙ্ঘা দেখা যায়",
+   "চা বাগান",
+   "তেঁতুলিয়া"
+  ],
+  "food_en": [
+   "Tea"
+  ],
+  "food_bn": [
+   "চা"
+  ],
+  "rivers_en": [
+   "Mahananda",
+   "Karatoya"
+  ],
+  "rivers_bn": [
+   "মহানন্দা",
+   "করতোয়া"
+  ],
+  "description_en": "Bangladesh's northernmost district, famous for clear-day views of Mount Kanchenjunga and a growing tea industry in its cool climate.",
+  "description_bn": "বাংলাদেশের সর্বোত্তরের জেলা, পরিষ্কার দিনে কাঞ্চনজঙ্ঘা পর্বত দেখা যাওয়ার জন্য বিখ্যাত এবং শীতল জলবায়ুতে ক্রমবর্ধমান চা শিল্প।"
+ },
+ {
+  "id": "nilphamari",
+  "name_en": "Nilphamari",
+  "name_bn": "নীলফামারী",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 1643,
+  "population": 1867624,
+  "tags": [
+   "agricultural",
+   "river"
+  ],
+  "famous_for_en": [
+   "Teesta Barrage",
+   "Nilsagar"
+  ],
+  "famous_for_bn": [
+   "তিস্তা ব্যারাজ",
+   "নীলসাগর"
+  ],
+  "food_en": [
+   "Local rice varieties"
+  ],
+  "food_bn": [
+   "বিভিন্ন জাতের চাল"
+  ],
+  "rivers_en": [
+   "Teesta"
+  ],
+  "rivers_bn": [
+   "তিস্তা"
+  ],
+  "description_en": "Home to the Teesta Barrage, a major irrigation project on the Teesta river, and Nilsagar, a scenic ancient lake.",
+  "description_bn": "তিস্তা নদীর উপর গুরুত্বপূর্ণ সেচ প্রকল্প তিস্তা ব্যারাজ ও মনোরম প্রাচীন হ্রদ নীলসাগরের আবাসস্থল।"
+ },
+ {
+  "id": "lalmonirhat",
+  "name_en": "Lalmonirhat",
+  "name_bn": "লালমনিরহাট",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 1247,
+  "population": 1289665,
+  "tags": [
+   "river",
+   "border"
+  ],
+  "famous_for_en": [
+   "Tin Bigha Corridor",
+   "Teesta riverside"
+  ],
+  "famous_for_bn": [
+   "তিন বিঘা করিডোর",
+   "তিস্তা নদীর তীর"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Teesta",
+   "Dharla"
+  ],
+  "rivers_bn": [
+   "তিস্তা",
+   "ধরলা"
+  ],
+  "description_en": "Known for the historic Tin Bigha Corridor connecting Bangladeshi enclaves, and extensive char lands along the Teesta river.",
+  "description_bn": "বাংলাদেশি ছিটমহলগুলোকে সংযুক্তকারী ঐতিহাসিক তিন বিঘা করিডোর ও তিস্তা নদীর বিস্তৃত চরাঞ্চলের জন্য পরিচিত।"
+ },
+ {
+  "id": "kurigram",
+  "name_en": "Kurigram",
+  "name_bn": "কুড়িগ্রাম",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 2245,
+  "population": 2103662,
+  "tags": [
+   "river",
+   "border"
+  ],
+  "famous_for_en": [
+   "Chilmari river port",
+   "extensive char lands"
+  ],
+  "famous_for_bn": [
+   "চিলমারী নদীবন্দর",
+   "বিস্তৃত চরাঞ্চল"
+  ],
+  "food_en": [
+   "River fish"
+  ],
+  "food_bn": [
+   "নদীর মাছ"
+  ],
+  "rivers_en": [
+   "Brahmaputra",
+   "Dharla",
+   "Teesta"
+  ],
+  "rivers_bn": [
+   "ব্রহ্মপুত্র",
+   "ধরলা",
+   "তিস্তা"
+  ],
+  "description_en": "A riverine district crisscrossed by the Brahmaputra, Dharla and Teesta rivers, with extensive char (sandbar) settlements.",
+  "description_bn": "ব্রহ্মপুত্র, ধরলা ও তিস্তা নদী দ্বারা বিভক্ত একটি নদীবিধৌত জেলা, বিস্তৃত চরাঞ্চলের বসতির জন্য পরিচিত।"
+ },
+ {
+  "id": "gaibandha",
+  "name_en": "Gaibandha",
+  "name_bn": "গাইবান্ধা",
+  "division_en": "Rangpur",
+  "division_bn": "রংপুর",
+  "area_sqkm": 2179,
+  "population": 2611017,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Balashi Ghat",
+   "char lands"
+  ],
+  "famous_for_bn": [
+   "বালাসী ঘাট",
+   "চরাঞ্চল"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Brahmaputra",
+   "Teesta"
+  ],
+  "rivers_bn": [
+   "ব্রহ্মপুত্র",
+   "তিস্তা"
+  ],
+  "description_en": "A riverside district on the Brahmaputra known for its ferry ghats connecting to the char (river island) communities.",
+  "description_bn": "ব্রহ্মপুত্র নদীর তীরে অবস্থিত একটি জেলা, চরাঞ্চলের জনগোষ্ঠীর সাথে সংযোগকারী ফেরিঘাটের জন্য পরিচিত।"
+ },
+ {
+  "id": "mymensingh",
+  "name_en": "Mymensingh",
+  "name_bn": "ময়মনসিংহ",
+  "division_en": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "area_sqkm": 4394,
+  "population": 5827594,
+  "tags": [
+   "historical",
+   "river"
+  ],
+  "famous_for_en": [
+   "Shashi Lodge",
+   "Bangladesh Agricultural University"
+  ],
+  "famous_for_bn": [
+   "শশী লজ",
+   "বাংলাদেশ কৃষি বিশ্ববিদ্যালয়"
+  ],
+  "food_en": [
+   "Muktagacha's monda (sweet)"
+  ],
+  "food_bn": [
+   "মুক্তাগাছার মণ্ডা"
+  ],
+  "rivers_en": [
+   "Old Brahmaputra"
+  ],
+  "rivers_bn": [
+   "পুরাতন ব্রহ্মপুত্র"
+  ],
+  "description_en": "Home to the country's premier Bangladesh Agricultural University and the famous monda sweet of Muktagacha, on the old Brahmaputra river.",
+  "description_bn": "দেশের শীর্ষস্থানীয় বাংলাদেশ কৃষি বিশ্ববিদ্যালয় ও মুক্তাগাছার বিখ্যাত মণ্ডা মিষ্টির জন্য পরিচিত, পুরাতন ব্রহ্মপুত্র নদীর তীরে অবস্থিত।"
+ },
+ {
+  "id": "jamalpur",
+  "name_en": "Jamalpur",
+  "name_bn": "জামালপুর",
+  "division_en": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "area_sqkm": 2031,
+  "population": 2413441,
+  "tags": [
+   "river"
+  ],
+  "famous_for_en": [
+   "Hazrat Shah Jamal's shrine"
+  ],
+  "famous_for_bn": [
+   "হযরত শাহ জামালের মাজার"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Jamuna",
+   "Old Brahmaputra"
+  ],
+  "rivers_bn": [
+   "যমুনা",
+   "পুরাতন ব্রহ্মপুত্র"
+  ],
+  "description_en": "Named after the Sufi saint Hazrat Shah Jamal, a riverside district on the Jamuna known for its char land agriculture.",
+  "description_bn": "সুফি সাধক হযরত শাহ জামালের নামানুসারে নামকরণ করা হয়েছে, যমুনা নদীর তীরের চরাঞ্চল কৃষির জন্য পরিচিত।"
+ },
+ {
+  "id": "netrokona",
+  "name_en": "Netrokona",
+  "name_bn": "নেত্রকোনা",
+  "division_en": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "area_sqkm": 2749,
+  "population": 2229096,
+  "tags": [
+   "haor",
+   "hill"
+  ],
+  "famous_for_en": [
+   "Birishiri (Someshwari river, ceramic clay hills)",
+   "haor areas"
+  ],
+  "famous_for_bn": [
+   "বিরিশিরি (সোমেশ্বরী নদী, চীনামাটির পাহাড়)",
+   "হাওর অঞ্চল"
+  ],
+  "food_en": [
+   "Local fish dishes"
+  ],
+  "food_bn": [
+   "মাছের পদ"
+  ],
+  "rivers_en": [
+   "Someshwari",
+   "Kangsha"
+  ],
+  "rivers_bn": [
+   "সোমেশ্বরী",
+   "কংস"
+  ],
+  "description_en": "Known for Birishiri's scenic china clay hills along the Someshwari river and vast haor wetlands near the Indian border.",
+  "description_bn": "সোমেশ্বরী নদীর তীরে বিরিশিরির মনোরম চীনামাটির পাহাড় ও ভারত সীমান্তের কাছে বিস্তৃত হাওর অঞ্চলের জন্য পরিচিত।"
+ },
+ {
+  "id": "sherpur",
+  "name_en": "Sherpur",
+  "name_bn": "শেরপুর",
+  "division_en": "Mymensingh",
+  "division_bn": "ময়মনসিংহ",
+  "area_sqkm": 1364,
+  "population": 1479066,
+  "tags": [
+   "hill",
+   "forest"
+  ],
+  "famous_for_en": [
+   "Garo Hills foothills",
+   "Gajni Avoyaronno"
+  ],
+  "famous_for_bn": [
+   "গারো পাহাড়ের পাদদেশ",
+   "গজনী অবকাশ কেন্দ্র"
+  ],
+  "food_en": [
+   "Local sweets"
+  ],
+  "food_bn": [
+   "স্থানীয় মিষ্টি"
+  ],
+  "rivers_en": [
+   "Old Brahmaputra",
+   "Kangsha"
+  ],
+  "rivers_bn": [
+   "পুরাতন ব্রহ্মপুত্র",
+   "কংস"
+  ],
+  "description_en": "Sits at the foothills of the Garo Hills bordering India, known for the Gajni recreational forest and indigenous Garo communities.",
+  "description_bn": "ভারত সীমান্তবর্তী গারো পাহাড়ের পাদদেশে অবস্থিত, গজনী অবকাশ কেন্দ্র ও আদিবাসী গারো জনগোষ্ঠীর জন্য পরিচিত।"
+ }
+]
