@@ -9,27 +9,27 @@ trivia quiz, all generated from a single structured dataset.
 
 ## 📌 Features
 
-- **District Explorer** — browse all 64 districts by division, search by name, view a
+**District Explorer** — browse all 64 districts by division, search by name, view a
   detail page for each (area, population, famous places, food, rivers)
-- **AI Search Assistant** — ask a free-text question ("What is Sylhet famous for?") and
+**AI Search Assistant** — ask a free-text question ("What is Sylhet famous for?") and
   get an answer via **TF-IDF + cosine similarity** (scikit-learn) — a real NLP technique,
   fully offline, **no API key or internet connection required**
-- **Voice input** for the AI assistant, using the browser's built-in Web Speech API
-- **Compare** — side-by-side comparison of any two districts
-- **Trip Planner** — pick your interests (beach, hills, history, rivers, ...) and get
+**Voice input** for the AI assistant, using the browser's built-in Web Speech API
+**Compare** — side-by-side comparison of any two districts
+**Trip Planner** — pick your interests (beach, hills, history, rivers, ...) and get
   matching district suggestions with a reason for each
-- **Trivia Quiz** — multiple-choice questions generated on the fly from the dataset
+**Trivia Quiz** — multiple-choice questions generated on the fly from the dataset
   (largest/smallest district, which division, famous-for matching, etc.)
-- **Insights Dashboard** — population/area charts by division (Chart.js), rankings
-- **Favorites** — bookmark districts (session-based, no login needed)
-- **Printable Fact Sheets** — one-click "Print / Save as PDF" per district
-- **REST API** — `/api/districts`, `/api/district/<id>`, `/api/ask?q=...` for other apps
-- **Full bilingual UI** — every page, label and district fact switches between
+**Insights Dashboard** — population/area charts by division (Chart.js), rankings
+**Favorites** — bookmark districts (session-based, no login needed)
+**Printable Fact Sheets** — one-click "Print / Save as PDF" per district
+**REST API** — `/api/districts`, `/api/district/<id>`, `/api/ask?q=...` for other apps
+**Full bilingual UI** — every page, label and district fact switches between
   বাংলা and English instantly
 
 
 
-## 🧠 How the "AI" search actually works (no API key needed)
+## How the "AI" search actually works (no API key needed)
 
 Instead of calling an external LLM (which would need a paid API key you'd have to set
 up), JelaPedia builds its own small **TF-IDF search index** over all district data at
@@ -58,9 +58,6 @@ about Bangla NLP challenges.
 ## 🗂️ Project Structure
 
 jelapedia/
-├── start.bat / start.sh      # (no database, no API key needed)
-├── README.md
-├── CV_AND_INTERVIEW_GUIDE.md
 ├── data/
 │   └── districts.json        # All 64 districts, bilingual, structured data
 ├── backend/                  # Flask application
@@ -84,10 +81,8 @@ Python (Flask) · scikit-learn (TF-IDF) · Jinja2 · Bootstrap 5 · Chart.js · 
 
 District facts (history, famous places, food) are general knowledge and stable.
 **Population figures are approximate** (2022 BBS census, rounded) for demo purposes —
-verify against [bbs.gov.bd](http://bbs.gov.bd) before any serious/official use.
+verify against [bbs.gov.bd](http://bbs.gov.bd) before any official use.
 
 ## Krisanu Das
-
-**Your Name**
 www.linkedin.com/in/krisanu-das
 
